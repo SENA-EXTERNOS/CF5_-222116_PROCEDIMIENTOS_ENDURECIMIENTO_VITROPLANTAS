@@ -1,19 +1,251 @@
 .banner-principal-decorativo
   &-1
-    animation: float1 3.5s ease-in-out infinite alternate
+    animation: floatX 5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 10%
+    right: 70%
   &-2
-    animation: float1 2.8s ease-in-out infinite alternate
+    animation: float1 5s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
+    top: 11%
+    right: 6%
 
+  &-3
+    animation: floatX1 5s ease-in-out infinite alternate
+    position: absolute
+    top: 68%
+    right: 14%
+
+  &-4
+    animation: floatY 5s ease-in-out infinite alternate
+    position: absolute
+    top: 59%
+    right: 79%        
+
+  
 
 @keyframes float1
   0%
     transform: translateY(20px)
 
   100%
-    transform: translateY(0px)
+    translate: 0px 250px
+
+@keyframes floatY 
+  0% 
+     transform: translateX(0px)
+
+  100%
+    translate: 0px -250px    
+
+@keyframes floatX
+  0%
+    transform: translateX(0px)
+
+  100%
+    translate: 250px 0px    
+
+
+@keyframes floatX1 
+  0% 
+     transform: translateX(0px)
+
+  100%
+    translate: -200px 0px
+
+.titulo-principal__numero
+  .fas.fa-info
+    color: white !important
+
+.banner-interno__fondo
+  background-image: url("../assets/curso/temas/banner-interno.png") !important       
+ 
+
+.titulo-principal.color-acento-contenido .titulo-principal__numero span
+  color: white !important 
+
+.bloque-texto-b:before 
+    content: '' !important
+    display: block !important
+    position: absolute !important
+    top: 1% !important
+    bottom: 0 !important
+    left: 0% !important
+    right: 0 !important
+    width: 20rem !important
+    height: 6rem !important  
+
+.color-tarjeta-bloque-texto:before
+  background-color: #CDF0E4
+
+
+.color-tarjeta-slider
+  background-color: #F2F8E8  
+
+.bg--gradientBlue        
+   background-color: #F2F8E8 
+   border-radius: 20px !important
+
+.slyder__btn   
+  background-color: #FDB32B !important
+  border-radius: 50% !important
+
+.slyder-b__img
+  border-radius: 10px !important
+  overflow: hidden !important
+  width: 66% !important
+  height: 100% !important
+  margin-left: 10rem !important
+
+
+.slyderB_bg_01
+  width: 100% 
+  background-image: url("../assets/curso/temas/tema1/bg-slider.png") 
+  background-size: cover
+  background-position: left top
+  background-repeat: no-repeat
+
+
+.tabs-c__header 
+  margin-bottom: 0px !important
+  color: #000 !important
+
+.slyderA_bg_01
+  width: 100% 
+  background-image: url("../assets/curso/temas/tema1/bg-slider-1.png") 
+  background-size: cover
+  background-position: left top
+  background-repeat: no-repeat
+  border-radius: 30px !important
+
+.slyderA_bg_02
+  width: 100% 
+  background-image: url("../assets/curso/temas/tema2/bg-3.png") 
+  background-size: cover
+  background-position: left top
+  background-repeat: no-repeat
+  border-radius: 30px !important  
+
+.slyder-a__tipo-b .slyder-a__btn--sigt
+  background-color: #FDB32B !important  
+
+  
+.slyder-a__tipo-b .slyder-a__btn--atrs
+  background-color: #FDB32B !important 
+
+.slyder-a__bullets__item--active  
+     background-color: #FDB32B !important
+
+
+.fas.fa-quote-left
+  font-size: 2em !important
+  color: #3BC192 !important
+
+.fas.fa-quote-right
+  font-size: 2em !important
+  color: #3BC192 !important
+
+.linea-tiempo-d.color-primario .linea-tiempo-d__item--selected .linea-tiempo-d__item__number
+  background-color: #C4E5E1  !important
+
+.linea-tiempo-d.color-secundario .linea-tiempo-d__item--selected .linea-tiempo-d__item__number 
+  background-color: #C4E5E1  !important
+  color: #000
+  
+.linea-tiempo-d__item.row.linea-tiempo-d__item--selected 
+  .linea-tiempo-d__item__content.tarjeta.tarjeta--gris
+    background-color:  #DFEDC7 !important
+
+.color-tarjeta-descargas 
+  background-image: linear-gradient(to right, #169788, #81B722 );     
+  
+
+.bg1
+  background-image: url('../assets/curso/temas/tema2/bg-1.png')    
+  background-repeat: no-repeat
+  border-radius: 10px !important 
+
+.mg-img
+   margin: -48px !important 
+
+@media (max-width:500px)   
+    .mg-img
+      margin: -0px !important  
+
+.mg-img-final
+   padding-bottom: 148px !important
+   padding-top: 52px !important
+
+
+.h-slider      
+  height: 28rem !important
+
+.h-slider2      
+  height: 32rem !important  
+
+hr
+  width: 75% 
+  color: #169788 
+
+.tarjeta .clr--gris
+  width: 100% 
+  background-image: url("../assets/curso/temas/tema2/bg-2.png") 
+  background-size: cover
+  background-position: left top
+  background-repeat: no-repeat
+  border-radius: 30px !important   
+
+.acordion__accion__btn--b  
+  background-color: #FDB32B !important
+
+
+.crd--avatarHorizontal
+  position: relative
+  padding-right: 12rem
+  & > *
+    position: relative
+  h5 
+    color: #000000
+  p 
+    margin-bottom: 0
+  &::before  
+    position: absolute 
+    content: ''
+    top: 0
+    right: 0
+    width: calc( 100% - 60px)
+    height: 100%
+    background-color: #D7ECEA 
+
+  @media (max-width: 500px)
+    padding-right: 2rem
+
+.crd--first
+  &::before 
+    background-color: #E3F7F5 !important
+
+.crd--three
+  &::before 
+    background-color: #E3F7F5 !important
+    border-bottom-left-radius: 30px    
+
+.crd--first
+  &::before 
+    border-top-left-radius: 30px
+.crd--last
+  &::before 
+    border-bottom-left-radius: 30px
+
+.avatar
+  position: absolute
+  bottom: 0
+  right: -3rem
+  z-index: 1
+  @media (max-width: 1000px)
+    display: none     
+
+.t-img      
+  margin-top: 3rem !important;
+
+.img90
+  width: 90px  !important  
