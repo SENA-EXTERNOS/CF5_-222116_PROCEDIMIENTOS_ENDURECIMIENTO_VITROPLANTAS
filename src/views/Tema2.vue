@@ -25,35 +25,35 @@
           img(src='@/assets/curso/temas/tema2/img6.png', alt='')
       .col-md-12.mt-5
         SlyderF(columnas="col-sm-4")
-          .tarjeta.color-secundario.h-slider.p-4
+          .tarjeta.color-secundario.bg-tarjeta.h-slider.p-4
             .row.justify-content-center.mb-2
               .col-sm-2.col-lg-7.mb-4.mb-lg-0
                 figure
                   img(src='@/assets/curso/temas/tema2/img7.png' alt='')                  
               p.mt-5.texto-centro En la práctica, y en la disposición de adicionar en el proceso de propagación vegetal todo lo que esta necesita para desarrollarse, es de tener en cuenta que en los procesos para cada etapa, dependiendo de la especie, pueden variar las respuestas.
 
-          .tarjeta.tarjeta.color-secundario.h-slider.p-4
+          .tarjeta.tarjeta.color-secundario.bg-tarjeta.h-slider.p-4
             .row.justify-content-center.mb-2
               .col-sm-2.col-lg-7.mb-4.mb-lg-0
                 figure
                   img(src='@/assets/curso/temas/tema2/img8.png' alt='')                  
               p.mt-5.texto-centro Arrieta et al. (2017) indican que no todas las plantas tienen la capacidad de enraizar espontáneamente, por lo que a veces es necesario aplicar sustancias hormonales que provoquen la formación de raíces.
 
-          .tarjeta.tarjeta.color-secundario.h-slider.p-4
+          .tarjeta.tarjeta.color-secundario.bg-tarjeta.h-slider.p-4
             .row.justify-content-center.mb-2
               .col-sm-2.col-lg-7.mb-4.mb-lg-0
                 figure
                   img(src='@/assets/curso/temas/tema2/img9.png' alt='')                  
               p.mt-5.texto-centro Las auxinas, por ejemplo, son hormonas reguladoras del crecimiento vegetal y, en dosis muy pequeñas, regulan los procesos fisiológicos de las plantas; todas estimulan la formación y el desarrollo de las raíces. 
 
-          .tarjeta.tarjeta.color-secundario.h-slider.p-4
+          .tarjeta.tarjeta.color-secundario.bg-tarjeta.h-slider.p-4
             .row.justify-content-center.mb-2
               .col-sm-2.col-lg-7.mb-4.mb-lg-0
                 figure
                   img(src='@/assets/curso/temas/tema2/img10.png' alt='')                  
               p.mt-5.texto-centro La función de las auxinas en la promoción del enraizamiento tiene que ver con la división y crecimiento celular, la atracción de nutrientes y de otras sustancias al sitio de aplicación, las relaciones hídricas y fotosintéticas, entre otros aspectos.
 
-          .tarjeta.tarjeta.color-secundario.h-slider.p-4
+          .tarjeta.tarjeta.color-secundario.bg-tarjeta.h-slider.p-4
             .row.justify-content-center.mb-2
               .col-sm-2.col-lg-7.mb-4.mb-lg-0
                 figure
@@ -162,7 +162,7 @@
             figure(data-aos="fade-left")
               img(src='@/assets/curso/temas/tema2/img20.png')  
 
-    p.mt-5.mb-5  Texto introductorio	Para realizar la desinfección del sustrato existen dos formas, el método químico y el físico.
+    p.mt-5.mb-5  Para realizar la desinfección del sustrato existen dos formas, el método químico y el físico.
     .tarjeta.p-5(titulo="Ejemplo - 1")
       .row.justify-content-center
         .col-lg-11
@@ -181,7 +181,7 @@
                 .row
                   p.mb-3  El segundo método hace uso del calor como la solarización, en donde se expone al sol el suelo cubierto de plástico a altas temperaturas, al alterar esa variable se eliminan los microorganismos que puedan generar la contaminación o riesgo en el sustrato, pues el metabolismo de dichos agentes patológicos no es resistente a las altas temperaturas. 
                   
-    p.mt-5.mb-5 Introducción	En este apartado se complementa la información relacionada con las formas de desinfección del sustrato.
+    p.mt-5.mb-5 En este apartado se complementa la información relacionada con las formas de desinfección del sustrato.
     .bg--gradientBlue.p-5.mb-4 
       SlyderB(:datos="datosSlyder1")
 
@@ -193,28 +193,28 @@
           img(src='@/assets/curso/temas/tema2/img24.png', alt='')
       .col-md-12.mt-5
         SlyderF(columnas="col-sm-4")
-          .tarjeta.color-secundario.h-slider2.p-4
+          .tarjeta.color-secundario.bg-tarjeta.h-slider2.p-4
             .row.justify-content-center.mb-2
               .col-sm-2.col-lg-7.mb-4.mb-lg-0
                 figure
                   img(src='@/assets/curso/temas/tema2/img25.png' alt='')                  
               p.mt-5.texto-centro Algunos, como las rocas de procedencia volcánica o arenas, pueden ser catalogados como sustratos inertes; en donde por su composición química se encargan del soporte de las plántulas sin casi intervenir con los procesos de nutrición o absorción de agua.
 
-          .tarjeta.tarjeta.color-secundario.h-slider2.p-4
+          .tarjeta.tarjeta.color-secundario.bg-tarjeta.h-slider2.p-4
             .row.justify-content-center.mb-2
               .col-sm-2.col-lg-7.mb-4.mb-lg-0
                 figure
                   img(src='@/assets/curso/temas/tema2/img26.png' alt='')                  
               p.mt-5.texto-centro Los sustratos activos, como son provenientes de otras composiciones orgánicas como cortezas de algunos árboles o de productos como celulosas, pueden presentar otras cualidades. Estos suelen ser más interactivos en temas de reserva de nutrientes o las interacciones entre ellos.
 
-          .tarjeta.tarjeta.color-secundario.h-slider2.p-4
+          .tarjeta.tarjeta.color-secundario.bg-tarjeta.h-slider2.p-4
             .row.justify-content-center.mb-2
               .col-sm-2.col-lg-7.mb-4.mb-lg-0
                 figure
                   img(src='@/assets/curso/temas/tema2/img27.png' alt='')                  
               p.mt-5.texto-centro Algunas de las propiedades que muestran estos tipos de sustratos tienden a referirse a la capacidad para absorber agua y también para reservar. Su composición estructural es evidenciada en cuanto a la compactación que presenta, y esto se encuentra relacionado al tamaño de las partículas que lo conforman.
 
-          .tarjeta.tarjeta.color-secundario.h-slider2.p-4
+          .tarjeta.tarjeta.color-secundario.bg-tarjeta.h-slider2.p-4
             .row.justify-content-center.mb-2
               .col-sm-2.col-lg-7.mb-4.mb-lg-0
                 figure
@@ -252,7 +252,7 @@
             figure(data-aos="fade-left")
               img(src='@/assets/curso/temas/tema2/img31.png')
 
-    p.mt-5.mb-5  Texto introductorio	Colombia hace parte de la Organización Internacional del Trabajo (OIT) e implementa políticas referentes al desempeño y crecimiento laboral para mejorar las condiciones de trabajo, las cuales permiten alinear las normas laborales en pro de la generación de empleo. A continuación, se presentan las normas a cumplir y que están relacionadas.
+    p.mt-5.mb-5  Colombia hace parte de la Organización Internacional del Trabajo (OIT) e implementa políticas referentes al desempeño y crecimiento laboral para mejorar las condiciones de trabajo, las cuales permiten alinear las normas laborales en pro de la generación de empleo. A continuación, se presentan las normas a cumplir y que están relacionadas.
     .tarjeta.p-5
       .row.justify-content-center
         .col-lg-11
@@ -269,7 +269,7 @@
             div(x="84%" y="66%" tooltip="Ver más" numero="+")
               .tarjeta.white-card.p-4
                 .row
-                  p.mb-3  Punto modal 2	Más actual, la Resolución 0312 de 2019 define los Estándares Mínimos del Sistema de Gestión de la Seguridad y Salud en el Trabajo SG- SST, en donde se proyecta conjuntamente toda la normatividad para un control de seguimiento que incluye el registro, la verificación y el cumplimiento que básicamente debe contener en cuanto a infraestructura, finanzas, tecnología, entre otras. 	Al hacer clic en la expresión “Resolución 0312 de 2019”.
+                  p.mb-3  Punto modal 2	Más actual, la Resolución 0312 de 2019 define los Estándares Mínimos del Sistema de Gestión de la Seguridad y Salud en el Trabajo SG- SST, en donde se proyecta conjuntamente toda la normatividad para un control de seguimiento que incluye el registro, la verificación y el cumplimiento que básicamente debe contener en cuanto a infraestructura, finanzas, tecnología, entre otras.
     .row.justify-content-center.mt-5
       .col-md-10                                      
         figure

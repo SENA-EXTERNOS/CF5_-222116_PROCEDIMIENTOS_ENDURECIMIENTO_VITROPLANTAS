@@ -20,40 +20,40 @@
       TabsC.color-secundario.mb-5.mt-5
         .py-3.py-md-4(titulo="Definición de vitroplantas").slyderB_bg_01               
           .row.justify-content-center.p-5
-            .col-lg-7.order-lg-2.mb-4.mb-lg-0         
+            .col-lg-7.mb-4.mb-lg-0         
               p Reciben el nombre de vitroplantas aquellos individuos vegetales que han sido producto de la micropropagación asexual y que avanzan su desarrollo en recipientes de vidrio y en condiciones que, aunque aún se controlan, tienden a ser compartidas con el ambiente natural en su proceso de aclimatación.                
-            .col-lg-5.order-lg-1
+            .col-lg-5
               figure(data-aos="zoom-in")
                 img(src='@/assets/curso/temas/tema1/img5.png', alt='').img400.m-auto
 
         .py-3.py-md-4(titulo="<i>In vitro</i> vs <i>ex vitro</i>").slyderB_bg_01
           .row.justify-content-center.p-5          
-            .col-lg-7.order-lg-2.mb-4.mb-lg-0
+            .col-lg-7.mb-4.mb-lg-0
               p.mb-0 Según Espinosa et al. (2019), las plantas que provienen del cultivo de tejidos generalmente requieren de tratamientos para prevenir su muerte después de transferidas a condiciones #[i ex vitro], ya que las producidas #[i in vitro] son incapaces de resistir los cambios de ambiente a los que se enfrentan. Esto es debido a que se han desarrollado en un ambiente aséptico, con variaciones mínimas de temperatura, alta humedad y disponibilidad de nutrientes y baja concentración de dióxido de carbono. Ante el minucioso procedimiento, se comparten responsabilidades entre la infraestructura y la metodología, de tal manera que se aporte en cada fase lo que se requiere para lograr en su primer avance la supervivencia del material vegetal. 
-            .col-lg-5.order-lg-1                                       
+            .col-lg-5                                      
               figure(data-aos="zoom-in")
                 img(src='@/assets/curso/temas/tema1/img6.png', alt='').img400.m-auto      
 
         .py-3.py-md-4(titulo="Técnica <i>in vitro</i>").slyderB_bg_01
           .row.justify-content-center.p-5
-            .col-lg-7.order-lg-2.mb-4.mb-lg-0                           
+            .col-lg-7.mb-4.mb-lg-0                           
               p.mb-0 Al disponer de etapas tan tempranas en la formación de tejido, la técnica #[i in vitro] determina la procedencia del tejido o del tipo de células del cual se pretende obtener el brote de germinación. Es una etapa de fragilidad en cuanto al desempeño del procedimiento y tienen que ver con el resultado final las técnicas, los implementos y los tiempos en control de las variables en los lugares determinados para realizar la sección mencionada; pues desde que se inicie se corren los riesgos propios de la práctica en la que se pueden experimentar eventos de contaminación del material o pérdida del mismo por exposiciones a variables que le afectan fisiológicamente.
-            .col-lg-5.order-lg-1
+            .col-lg-5
               figure(data-aos="zoom-in")
                 img(src='@/assets/curso/temas/tema1/img7.png', alt='').img400.m-auto
 
         .py-3.py-md-4(titulo="Nombre del botón").slyderB_bg_01
           .row.justify-content-center.p-5
-            .col-lg-7.order-lg-2.mb-4.mb-lg-0                           
+            .col-lg-7.mb-4.mb-lg-0                           
               p.mb-0 La vitroplanta es el resultado de todos los protocolos en conjunto y requiere que las condiciones en las cuales se inicie sean las óptimas y así se pueda avanzar en las etapas que preceden al endurecimiento o aclimatación. Lo anterior es un paso más en el cual se atenderá la limpieza del medio en que se originó el brote y los procesos de cuidado del sistema radical altamente delicados al paso de sustrato. 
-            .col-lg-5.order-lg-1
+            .col-lg-5
               figure(data-aos="zoom-in")
                 img(src='@/assets/curso/temas/tema1/img8.png', alt='').img400.m-auto  
 
     <Separador></Separador>
     #t_1_2.titulo-segundo.color-acento-contenido.mt-5
       h2 1.2.	Condiciones de calidad en material vegetal
-    p.mb-5 Introducción	Determinados el concepto y condiciones de endurecimiento de vitroplantas, se presentan a continuación las condiciones de calidad en material vegetal.  
+    p.mb-5 Determinados el concepto y condiciones de endurecimiento de vitroplantas, se presentan a continuación las condiciones de calidad en material vegetal.  
 
 
     .slyderA_bg_01.px-5.py-3.mb-5

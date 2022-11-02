@@ -171,7 +171,7 @@ export default {
     {
       termino: 'Germinación',
       significado:
-        'Germinación:	es el proceso inicial vegetal a partir del cual el desarrollo del embrión inicia su crecimiento.',
+        'es el proceso inicial vegetal a partir del cual el desarrollo del embrión inicia su crecimiento.',
     },
     {
       termino: 'Fotosíntesis',
@@ -181,7 +181,7 @@ export default {
     {
       termino: 'Reproducción asexual',
       significado:
-        'Reproducción asexual:	mecanismo de reproducción en las plantas y otros seres vivos sin intervención de células sexuales. ',
+        'mecanismo de reproducción en las plantas y otros seres vivos sin intervención de células sexuales. ',
     },
     {
       termino: 'Fisiológico',
@@ -195,12 +195,12 @@ export default {
     {
       termino: 'Metabolismo',
       significado:
-        'Metabolismo:	son todos los procesos y reacciones de tipo químicas en la transformación de energía en los seres vivos. ',
+        'son todos los procesos y reacciones de tipo químicas en la transformación de energía en los seres vivos. ',
     },
     {
       termino: 'Células somáticas',
       significado:
-        'Células somáticas: 	cualquier célula estructural y funcional diferente a las células sexuales. ',
+        'cualquier célula estructural y funcional diferente a las células sexuales. ',
     },
     {
       termino: 'Solarización',

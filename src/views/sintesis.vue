@@ -9,7 +9,10 @@
           p.mt-3 Síntesis: Procedimientos para el endurecimiento de vitroplantas.
       .col-md-1.d-flex.flex-row-reverse
             figure
-              img(src="@/assets/curso/portada/logoSena.png", alt="alt")          
+              img(src="@/assets/curso/portada/logoSena.png", alt="alt") 
+
+    p.mt-5.mb-5 En el siguiente esquema, usted podrá hacer un recorrido por conceptos y temas que corresponden al desarrollo de este componente.                   
+    
     .row.justify-content-center
       .col-lg-10.mb-5
         figure
