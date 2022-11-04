@@ -19,7 +19,7 @@
 
     .row.justify-content-center.bg1.mg-img.mt-5.mg-img-final.t-img 
       .col-md-6
-        p En algunos casos los proyectos de micropropagación son requeridos para la producción en masa de alguna especie de interés económico, sin embargo, también pueden estar destinados al ejercicio in vitro de especies que presentan tasas de reproducción muy bajas y se encuentran en vía de extinción. 
+        p En algunos casos los proyectos de micropropagación son requeridos para la producción en masa de alguna especie de interés económico, sin embargo, también pueden estar destinados al ejercicio #[i in vitro] de especies que presentan tasas de reproducción muy bajas y se encuentran en vía de extinción. 
       .col-md-6 
         figure(data-aos="fade-left")
           img(src='@/assets/curso/temas/tema2/img6.png', alt='')
@@ -68,7 +68,7 @@
           AcordionA.mb-5(tipo="b" clase-tarjeta="tarjeta clr--gris") 
             .row(titulo="Etapa de germinación")
               .col-12                
-                p.mb-0 Para iniciar la etapa de germinación es posible detener la latencia de las semillas bajo controles previos al inicio del cultivo in vitro; o en el caso de otros tejidos a germinar, significa que la multiplicación de la plántula a muchas de ellas para iniciar su desarrollo, esté precedido del endurecimiento y aclimatación para otras etapas más avanzadas.
+                p.mb-0 Para iniciar la etapa de germinación es posible detener la latencia de las semillas bajo controles previos al inicio del cultivo #[i in vitro]; o en el caso de otros tejidos a germinar, significa que la multiplicación de la plántula a muchas de ellas para iniciar su desarrollo, esté precedido del endurecimiento y aclimatación para otras etapas más avanzadas.
 
             .row(titulo="Herramientas para la germinación")
               .col-12                              
@@ -148,7 +148,7 @@
             figure(data-aos="fade-left")
               img(src='@/assets/curso/temas/tema2/img18.png')      
         .row.justify-content-center.align-items-center.my-lg-4
-          .col-lg-6.mb-4.mb-lg-0.pt-5.pt-0.position-relative
+          .col-lg-6.mb-4.mb-lg-0  
             .number(data-number="02")              
               p.ps-4.mb-0 Por las anteriores descripciones del suelo, pasa a interiorizar el sustrato como Gayosso et al. (2016) lo definen: ¨Es el material sólido natural, de síntesis o residual, orgánico o mineral, puro o mezclado que en un contenedor permite el anclaje del sistema radical, da soporte a la planta e interviene o no en su nutrición.¨ Siendo el sustrato un componente indispensable, debe estar libre de impurezas que generan contaminación de las raíces y posterior, de otras partes de la plántula, causando enfermedad y poniendo en riesgo su desarrollo. Así que a continuación se comentan diferentes formas para desinfectar el sustrato previo al trasplante.
           .col-6.col-lg-6

@@ -226,12 +226,12 @@ export default {
   referencias: [
     {
       referencia:
-        'Arrieta et al. (2017). Manual de Prácticas de la Unidad de Aprendizaje Propagación de Plantas. Universidad Autónoma de Nayarit. ',
+        'Arrieta et al. (2017). <i>Manual de Prácticas de la Unidad de Aprendizaje Propagación de Plantas.</i> Universidad Autónoma de Nayarit. ',
       link: 'https://www.ecorfan.org/textbooks/P-Manual/PM%20TI/PM%20TI.pdf',
     },
     {
       referencia:
-        'Avendaño, M. (2016). La reproducción de las plantas: costos y beneficios. Revista Ciencia, (67), 82-83. ',
+        'Avendaño, M. (2016). La reproducción de las plantas: costos y beneficios. <i>Revista Ciencia</i>, (67), 82-83. ',
       link:
         'https://www.revistaciencia.amc.edu.mx/images/revista/67_4/PDF/ReproduccionPlantas.pdf  ',
     },
@@ -243,24 +243,24 @@ export default {
     },
     {
       referencia:
-        'Díaz, B., Jordán, V. M. (2018). Evaluación de Tratamiento Térmico con vapor de agua para desinfección de sustrato. [Tesis de grado, Universidad de la República].',
+        'Díaz, B., Jordán, V. M. (2018). <i>Evaluación de Tratamiento Térmico con vapor de agua para desinfección de sustrato.</i> [Tesis de grado, Universidad de la República].',
       link:
         'https://www.colibri.udelar.edu.uy/jspui/bitstream/20.500.12008/29434/1/D%C3%ADazBernaschinaCamila.pdf',
     },
     {
       referencia:
-        'Espinosa et al. (2019). Influencia del tamaño de las plantas in vitro y tipo de sustrato en la aclimatación de Morus alba L. Revista Pastos y Forrajes,  42 (1). ',
+        'Espinosa et al. (2019). Influencia del tamaño de las plantas in vitro y tipo de sustrato en la aclimatación de Morus alba L. <i>Revista Pastos y Forrajes,</i>  42 (1). ',
       link: 'https://www.redalyc.org/articulo.oa?id=269159592003',
     },
     {
       referencia:
-        'Gayosso et al. (2016). Sustratos para producción de flores. Revista Agrociencia, 50 (5). ',
+        'Gayosso et al. (2016). Sustratos para producción de flores. <i>Revista Agrociencia,</i> 50 (5). ',
       link:
         'https://www.scielo.org.mx/pdf/agro/v50n5/1405-3195-agro-50-05-617.pdf ',
     },
     {
       referencia:
-        'Gil et al. (2017). Aclimatación de plántulas in vitro de Saintpaulia ionantha H. Wendl. (Gesneriaceae) “violeta africana’’ a condiciones de invernadero. Revista Arnaldoa 24 (1): 343 – 350. ',
+        'Gil et al. (2017). Aclimatación de plántulas in vitro de <i>Saintpaulia ionantha H. Wendl. (Gesneriaceae)</i> “violeta africana’’ a condiciones de invernadero. Revista Arnaldoa 24 (1): 343 – 350. ',
       link: 'http://doi.org/10.22497/arnaldoa.241',
     },
     {
@@ -270,7 +270,7 @@ export default {
     },
     {
       referencia:
-        'Salgado, J. M, & Peñaranda, L. V. (2019). Modificaciones en medios de cultivo aplicadas en conservación y producción in-vitro de orquídeas. Revista Colombiana De Investigaciones Agroindustriales, 6(1), 16–28. ',
+        'Salgado, J. M, & Peñaranda, L. V. (2019). Modificaciones en medios de cultivo aplicadas en conservación y producción <i>in-vitro</i> de orquídeas. <i>Revista Colombiana De Investigaciones Agroindustriales,</i> 6(1), 16–28. ',
       link: 'https://doi.org/10.23850/24220582.1815',
     },
   ],

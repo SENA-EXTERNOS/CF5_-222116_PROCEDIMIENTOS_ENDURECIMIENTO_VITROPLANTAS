@@ -42,7 +42,7 @@
               figure(data-aos="zoom-in")
                 img(src='@/assets/curso/temas/tema1/img7.png', alt='').img400.m-auto
 
-        .py-3.py-md-4(titulo="Nombre del botón").slyderB_bg_01
+        .py-3.py-md-4(titulo="Vitroplantas").slyderB_bg_01
           .row.justify-content-center.p-5
             .col-lg-7.mb-4.mb-lg-0                           
               p.mb-0 La vitroplanta es el resultado de todos los protocolos en conjunto y requiere que las condiciones en las cuales se inicie sean las óptimas y así se pueda avanzar en las etapas que preceden al endurecimiento o aclimatación. Lo anterior es un paso más en el cual se atenderá la limpieza del medio en que se originó el brote y los procesos de cuidado del sistema radical altamente delicados al paso de sustrato. 
@@ -89,7 +89,7 @@
         .row.justify-content-center.align-items-center.my-lg-4
           .col-lg-8.mb-4.mb-lg-0.pt-5.pt-0.position-relative
             .number(data-number="03")              
-              p.ps-4.mb-0 Por descripciones como la anterior, en cuanto a la calidad la especie reproducida debe ser morfológicamente ideal en el momento de sacar a campo, pues fisiológicamente se encuentra en condiciones idóneas para responder con un alto porcentaje de supervivencia al ambiente natural. En cada una de las fases de desarrollo por las que pase el material vegetal propagado ha de requerir de una valoración en cuanto al procedimiento que se utiliza. Esto permite que se estandaricen protocolos para garantizar la calidad de la etapa en que se encuentra, porque cuando las plántulas evidencian ya los brotes de germinación de sus tejidos aéreos, serán calificadas por su fenotipo y morfología, siendo estas características las que indiquen resultados o deficiencias. Por esta razón los controles aseguran las decisiones a tener en cuenta respecto a los resultados. 	 Imagen: 222116_i15
+              p.ps-4.mb-0 Por descripciones como la anterior, en cuanto a la calidad la especie reproducida debe ser morfológicamente ideal en el momento de sacar a campo, pues fisiológicamente se encuentra en condiciones idóneas para responder con un alto porcentaje de supervivencia al ambiente natural. En cada una de las fases de desarrollo por las que pase el material vegetal propagado ha de requerir de una valoración en cuanto al procedimiento que se utiliza. Esto permite que se estandaricen protocolos para garantizar la calidad de la etapa en que se encuentra, porque cuando las plántulas evidencian ya los brotes de germinación de sus tejidos aéreos, serán calificadas por su fenotipo y morfología, siendo estas características las que indiquen resultados o deficiencias. Por esta razón los controles aseguran las decisiones a tener en cuenta respecto a los resultados.
           .col-6.col-lg-4
             figure(data-aos="fade-left")
               img(src='@/assets/curso/temas/tema1/img13.png') 
@@ -139,8 +139,8 @@
                 p.text-small.text-white Para profundizar un poco más sobre el procedimiento de endurecimiento #[i ex vitro], visite el Grupo de innovación educativa en biodiversidad y biología vegetal en el blog 
             .col-md-3.mt-3
               .row.justify-content-end
-                .col-md-10
-                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/CF5 Procedimientos para el endurecimiento de vitroplantas v2.pdf')" target="_blank")
+                .col-md-10                  
+                  a.boton.color-acento-botones(href="https://blogs.upm.es/innebioveg/ex-vitro/" target="_blank")
                     span Ver enlace
                     i.fa.fa-link          
 
