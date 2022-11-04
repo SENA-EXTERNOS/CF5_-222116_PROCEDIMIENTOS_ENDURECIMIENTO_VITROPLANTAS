@@ -230,25 +230,22 @@
     p.mt-5.mb-5 Para finalizar el componente formativo, se describen aspectos destacados con la normatividad de seguridad industrial y seguridad en el trabajo.
     .slyderA_bg_02.px-5.py-3.mb-5.mt-5
       SlyderA(tipo="b")
-        .row.justify-content-center.align-items-center.my-lg-4
-          .col-lg-6.mb-4.mb-lg-0.pt-5.pt-0.position-relative
-            .number(data-number="01")              
+        .row.justify-content-center
+          .col-md-6.mt-5             
               p.ps-4.mb-0 El resultado de las prácticas agrícolas en cuanto al medio ambiente genera para este un impacto que no es benéfico, a través de sus implementaciones se generan emisiones a la atmósfera, aportes de residuos químicos al suelo y el agua y alteraciones en los ecosistemas y la diversidad asociada.
-          .col-7.col-lg-6
+          .col-6.mt-5
             figure(data-aos="fade-left")
               img(src='@/assets/curso/temas/tema2/img29.png')      
-        .row.justify-content-center.align-items-center.my-lg-4
-          .col-lg-6.mb-4.mb-lg-0.pt-5.pt-0.position-relative
-            .number(data-number="02")              
+        .row.justify-content-center
+          .col-md-6.mt-5              
               p.ps-4.mb-0 En vista de dichas afectaciones se ha requerido visionar hacia la implementación de prácticas y técnicas que reduzcan esos impactos, el control y el seguimiento para que se protejan los recursos; de esta manera se disponen y aplican diferentes tratados y normas que escalan las regiones, la nación y hasta el nivel internacional, para que de tal manera se promuevan dichas mejoras y garanticen los recursos a un plazo más amplio. 
-          .col-6.col-lg-6
+          .col-6.mt-5
             figure(data-aos="fade-left")
               img(src='@/assets/curso/temas/tema2/img30.png')    
-        .row.justify-content-center.align-items-center.my-lg-4
-          .col-lg-6.mb-4.mb-lg-0.pt-5.pt-0.position-relative
-            .number(data-number="03")              
+        .row.justify-content-center
+          .col-md-6.mt-5             
               p.ps-4.mb-0 Algunos de los ejemplos, aparte de la normatividad de ley que se nombrará a continuación, consisten en la aplicación de las buenas prácticas agrícolas. Estas hacen referencia de manera directa a las etapas que se realizan en la propagación de material vegetal, como aquellas en materia de suelos, nutrición vegetal, y claro, el material biológico micropropagado, materia prima en el desarrollo de proyectos en biotecnología vegetal. 
-          .col-6.col-lg-6
+          .col-6.mt-5
             figure(data-aos="fade-left")
               img(src='@/assets/curso/temas/tema2/img31.png')
 
