@@ -19,7 +19,7 @@
 
     .row.justify-content-center.bg1.mg-img.mt-5.mg-img-final.t-img 
       .col-md-6
-        p En algunos casos los proyectos de micropropagación son requeridos para la producción en masa de alguna especie de interés económico, sin embargo, también pueden estar destinados al ejercicio #[i in vitro] de especies que presentan tasas de reproducción muy bajas y se encuentran en vía de extinción. 
+        p.p-ml En algunos casos los proyectos de micropropagación son requeridos para la producción en masa de alguna especie de interés económico, sin embargo, también pueden estar destinados al ejercicio #[i in vitro] de especies que presentan tasas de reproducción muy bajas y se encuentran en vía de extinción. 
       .col-md-6 
         figure(data-aos="fade-left")
           img(src='@/assets/curso/temas/tema2/img6.png', alt='')
@@ -187,7 +187,7 @@
 
     .row.justify-content-center.bg1.mg-img.mt-5.mg-img-final.t-img 
       .col-md-6
-        p Así como en cuestión de sustratos existen diversas maneras de desinfectar adecuadamente, también cabe resaltar que las características que estos presentan pueden manifestar beneficios para la absorción, tanto de nutrientes como de agua, que benefician el crecimiento de las raíces. Todo esto se da gracias a su clasificación.
+        p.p-ml Así como en cuestión de sustratos existen diversas maneras de desinfectar adecuadamente, también cabe resaltar que las características que estos presentan pueden manifestar beneficios para la absorción, tanto de nutrientes como de agua, que benefician el crecimiento de las raíces. Todo esto se da gracias a su clasificación.
       .col-md-6 
         figure(data-aos="fade-left")
           img(src='@/assets/curso/temas/tema2/img24.png', alt='')
@@ -221,7 +221,7 @@
                   img(src='@/assets/curso/temas/tema2/img28.png' alt='')                  
               p.mt-5.texto-centro Una utilización más en cuanto a sustratos hace referencia a aquellos catalogados como artificiales, en los que por lo general se utilizan contribuyendo como mezclas, porque dada su composición son muy flexibles en cuanto a su estructura, pero se pueden degradar con facilidad; así que las proporciones en cuanto a su uso puede verse afectada con estos cambios.
 
-      p.mt-5 Para conocer más a fondo sobre la desinfección de sustratos y técnicas, puede consultar el documento: Desinfección de Suelos y Sustratos en la Agricultura de la Universidad Autónoma de Chapingo. 
+      p.p-ml.mt-5 Para conocer más a fondo sobre la desinfección de sustratos y técnicas, puede consultar el documento: Desinfección de Suelos y Sustratos en la Agricultura de la Universidad Autónoma de Chapingo. 
 
     <Separador></Separador>
     #t_2_3.titulo-segundo.color-acento-contenido.mt-5
