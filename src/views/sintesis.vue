@@ -2,14 +2,6 @@
 .curso-main-container.pb-3
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    .row
-      .col-md-10
-        .titulo-sexto.color-acento-contenido.mb-3
-          h5 Propagación masiva de material vegetal.
-          p.mt-3 Síntesis: Procedimientos para el endurecimiento de vitroplantas.
-      .col-md-1.d-flex.flex-row-reverse
-            figure
-              img(src="@/assets/curso/portada/logoSena.png", alt="alt") 
 
     p.mt-5.mb-5 En el siguiente esquema, usted podrá hacer un recorrido por conceptos y temas que corresponden al desarrollo de este componente.                   
     
