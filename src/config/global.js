@@ -3,7 +3,7 @@ export default {
     componenteFormativo:
       'Procedimientos para el endurecimiento de vitroplantas',
     descripcionCurso:
-      'El desarrollo de este componente formativo, pretende articular los procedimientos asociados al crecimiento vegetal y a las variables de calidad, que requieren las especies para lograr la supervivencia de las vitroplantas, a estadíos de desarrollo más avanzados y autotróficos; lo anterior, se pretende, a través del conocimiento y la implementación de elementos que intervienen en estas etapas.',
+      'El desarrollo de este componente formativo, pretende articular los procedimientos asociados al crecimiento vegetal y a las variables de calidad, que requieren las especies para lograr la supervivencia de las vitroplantas, a estados de desarrollo más avanzados y autotróficos; lo anterior, se pretende, a través del conocimiento y la implementación de elementos que intervienen en estas etapas.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -100,8 +100,7 @@ export default {
       referencia:
         'Torres. C. (2012). <i>Seguridad industrial. Legislación en seguridad y salud ocupacional en Colombia</i>. Universidad del Norte.',
       tipo: 'Documento ',
-      link:
-        'http://manglar.uninorte.edu.co/bitstream/handle/10584/2220/Legislaci%F3n%20en%20seguridad%20y%20salud%20ocupacional%20en%20Colombia.pdf?sequence=2  ',
+      link: 'https://manglar.uninorte.edu.co/handle/10584/2220#page=8',
     },
     {
       tema: 'Consolidación de espacios para el endurecimiento',
@@ -213,7 +212,8 @@ export default {
     {
       referencia:
         'Resolución 2400 de 1979. [Ministerio de Trabajo y Seguridad Social]. Por la cual se establecen algunas disposiciones sobre vivienda, higiene y seguridad en los establecimientos de trabajo. 22 mayo de 1979. ',
-      link: '',
+      link:
+        'https://www.ilo.org/dyn/travail/docs/1509/industrial%20safety%20statute.pdf',
     },
     {
       referencia:
