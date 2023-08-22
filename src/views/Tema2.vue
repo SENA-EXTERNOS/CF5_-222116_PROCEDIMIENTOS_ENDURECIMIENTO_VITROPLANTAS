@@ -101,7 +101,7 @@
 
       .row.justify-content-center      
         .col-lg-10.position-relative         
-          .avatar
+          .avatar.d-xl-block.d-none
             figure
               img(src="@/assets/curso/temas/tema2/img14.png", alt="alt").img250
           .crd.crd--avatarHorizontal.crd--first.py-4
